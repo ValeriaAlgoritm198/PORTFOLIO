@@ -1,1 +1,26 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(blue,lightblue)
+}
 
+
+a{
+   text-decoration:none;
+   color: white;
+   text-align: center;
+}
+
+h1{
+  color: white;
+   text-align: center;
+}
+
+p{
+    color:white ;
+     text-align: center;
+}
+
+footer{
+    color: white;
+     text-align: center;
+}
